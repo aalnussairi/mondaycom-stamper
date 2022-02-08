@@ -1,7 +1,6 @@
 {
   "name": "mondaycom-stamper",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
@@ -40,5 +39,20 @@
   },
   "devDependencies": {
     "ngrok": "^4.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalnussairi/mondaycom-stamper.git"
+  },
+  "keywords": [
+    "monday.com",
+    "react.js",
+    "react"
+  ],
+  "author": "Ahmed Al-Nussairi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalnussairi/mondaycom-stamper/issues"
+  },
+  "homepage": "https://github.com/aalnussairi/mondaycom-stamper#readme"
 }
